@@ -67,3 +67,7 @@ https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/645952687cb4b100084ed52e/3321280/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="CHV1" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV1 | CL
 https://cl-a6-i-e-qp1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/98ae0cd2-8535-4ef9-8e1c-746a7ea30b6a:SCL
+#EXTINF:-1 tvg-id="30" tvg-name="CHV2" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV2 | CL
+https://cl-a6-i-e-lz2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/6eb2a4e4-9047-4afa-a887-7307abd2cd9a:SCL/variant/061e2119ac32bb7399dac44a1c1ea721/bandwidth/3294610.m3u8?aid=598861d8cc3c169b2236f987&uid=ZkUCjhjxFNrpUoFZvi7Q6nKzL6T1oH9N&sid=ENO0KivIFkvI3UqR9ykmCS4Q6n4pM3ky&pid=wfQUMK0LeISrU1n24BHIj9TaJgFeGnZT&ref=https%3A%2F%2Fwww.chilevision.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=5C8g3sXLt7pquWsz5fokXmP0IIEjt1hKiMFHRIyJGOCCECtcrVQKlH5cC1j2jzIGnO5TneXCoHW&adInsertionGoogleStreamId=6eb2a4e4-9047-4afa-a887-7307abd2cd9a%3ASCL&es=cl-a6-i-e-lz2.cdn.mdstrm.com&ote=1737265281432&ot=PUWAeKGQLpYZQZotcuPQLA&proto=https&pz=cl
+#EXTINF:-1 tvg-id="30" tvg-name="CHV3" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV3 | CL
+https://cl-a6-i-e-lz2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/6eb2a4e4-9047-4afa-a887-7307abd2cd9a:SCL/variant/061e2119ac32bb7399dac44a1c1ea721/bandwidth/3294610.m3u8
